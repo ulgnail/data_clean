@@ -84,6 +84,15 @@ stats.ttest_ind(a=sampled_state21['OVERALL_LI'], b=sampled_state28['OVERALL_LI']
 
 # This means there is only a 0.64% probability that the absolute difference between the two mean district literacy rates would be 6.2 percentage points or greater if the null hypothesis is true. In other words, it’s highly unlikely that the difference in the two means is due to chance.
 
+# conclusion:
+# Since the p-value is extremely small (much smaller than the significance level of 5%), I reject the null hypothesis. I conclude that there is a statistically significant difference in the average total fare amount between customers who use credit cards and customers who use cash.
+
+# In[ ]:
+
+
+
+
+
 # In[ ]:
 
 
